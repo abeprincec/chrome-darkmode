@@ -23,5 +23,14 @@
         "path": "./themes/Chrome Dark Mode-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "chrome",
+    "dark",
+    "dev tools",
+    "dark theme",
+    "theme",
+    "minimal",
+    "material"
+  ]
 }
