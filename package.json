@@ -1,7 +1,7 @@
 {
   "name": "chrome-darkmode",
   "publisher": "Abraham",
-  "displayName": "Chrome DarkMode",
+  "displayName": "Chrome Dark Mode",
   "description": "Chrome dark mode theme",
   "version": "0.0.1",
   "engines": {
@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://raw.githubusercontent.com/abeprincec/chrome-darkmode/main/icon.png",
+  "icon": "icon.png",
   "repository": {
     "url": "https://github.com/abeprincec/chrome-darkmode",
     "type": "git"
