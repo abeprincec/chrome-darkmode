@@ -452,7 +452,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#d1c057"
+        "foreground": "#C2B666"
       }
     },
     {
@@ -594,7 +594,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#d1c057"
+        "foreground": "#C2B666"
       }
     },
     {
@@ -632,7 +632,7 @@
   "semanticTokenColors": {
     "newOperator": "#9A7ED5",
     "stringLiteral": "#f29766",
-    "customLiteral": "#d1c057",
+    "customLiteral": "#C2B666",
     "numberLiteral": "#A1F7B5",
     "variable.defaultLibrary": "#35d4c7"
   }
