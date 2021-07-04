@@ -358,7 +358,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#35D4C7"
+        "foreground": "#4ed1c7"
       }
     },
     {
@@ -492,7 +492,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#35d4c7"
+        "foreground": "#4ed1c7"
       }
     },
     {
@@ -506,7 +506,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#35d4c7"
+        "foreground": "#4ed1c7"
       }
     },
     {
@@ -625,7 +625,7 @@
     {
       "scope": "support.class.component.js",
       "settings": {
-        "foreground": "#35d4c7"
+        "foreground": "#4ed1c7"
       }
     },
     {
@@ -695,7 +695,7 @@
     "stringLiteral": "#f29766",
     "customLiteral": "#B9AE64",
     "numberLiteral": "#A1F7B5",
-    "variable.defaultLibrary": "#35d4c7",
+    "variable.defaultLibrary": "#4ed1c7",
 
     "variable.declaration": "#5CAFD5",
     "variable.declaration.local": "#5CAFD5",
