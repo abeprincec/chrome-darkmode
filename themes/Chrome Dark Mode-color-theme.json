@@ -705,10 +705,10 @@
     "type.defaultLibrary": "#35d478",
     "interface.defaultLibrary": "#35d478",
     "function.declaration": {
-      "foreground": "#d9ce25"
+      "foreground": "#c7b252"
     },
     "method.declaration": {
-      "foreground": "#d9ce25"
+      "foreground": "#c7b252"
     }
   }
 }
