@@ -44,7 +44,7 @@
     "editorLineNumber.foreground": "#494c50",
     "editorLineNumber.activeForeground": "#b1b1b1",
     "editor.background": "#202124",
-    "editor.foreground": "#D9D9D9",
+    "editor.foreground": "#cfd0d0",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editorCursor.foreground": "#ececec",
     "editor.lineHighlightBackground": "#0003",
@@ -100,7 +100,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -279,7 +279,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -414,7 +414,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -431,7 +431,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -532,7 +532,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -546,7 +546,7 @@
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#D9D9D9"
+        "foreground": "#cfd0d0"
       }
     },
     {
@@ -645,22 +645,22 @@
         "foreground": "#569CD6"
       }
     },
-    {
-      "scope": [
-        "meta.object.member.ts",
-        "variable.other.property.js",
-        "variable.other.property.jsx",
-        "variable.other.property.ts",
-        "variable.other.property.tsx",
-        "variable.other.object.property.js",
-        "variable.other.object.property.jsx",
-        "variable.other.object.property.ts",
-        "variable.other.object.property.tsx"
-      ],
-      "settings": {
-        "foreground": "#9ABADC"
-      }
-    },
+    // {
+    //   "scope": [
+    //     "meta.object.member.ts",
+    //     "variable.other.property.js",
+    //     "variable.other.property.jsx",
+    //     "variable.other.property.ts",
+    //     "variable.other.property.tsx",
+    //     "variable.other.object.property.js",
+    //     "variable.other.object.property.jsx",
+    //     "variable.other.object.property.ts",
+    //     "variable.other.object.property.tsx"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#9ABADC"
+    //   }
+    // },
     {
       "scope": [
         "meta.tag.tsx",
@@ -673,7 +673,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#d9d9d9bd"
+        "foreground": "#c0c0c0cc"
       }
     },
 
@@ -705,10 +705,10 @@
     "type.defaultLibrary": "#35d478",
     "interface.defaultLibrary": "#35d478",
     "function.declaration": {
-      "foreground": "#e5dd65"
+      "foreground": "#d9ce25"
     },
     "method.declaration": {
-      "foreground": "#e5dd65"
+      "foreground": "#d9ce25"
     }
   }
 }
