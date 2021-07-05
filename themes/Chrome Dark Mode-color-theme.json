@@ -44,7 +44,7 @@
     "editorLineNumber.foreground": "#494c50",
     "editorLineNumber.activeForeground": "#b1b1b1",
     "editor.background": "#202124",
-    "editor.foreground": "#cfd0d0",
+    "editor.foreground": "#dfdedb",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editorCursor.foreground": "#ececec",
     "editor.lineHighlightBackground": "#0003",
@@ -100,7 +100,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -279,7 +279,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -414,7 +414,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -431,7 +431,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -532,7 +532,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -546,7 +546,7 @@
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#cfd0d0"
+        "foreground": "#dfdedb"
       }
     },
     {
@@ -673,7 +673,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#c0c0c0cc"
+        "foreground": "#f1f1f2"
       }
     },
 
