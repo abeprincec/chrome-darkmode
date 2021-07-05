@@ -3,7 +3,7 @@
   "publisher": "Abraham",
   "displayName": "Chrome Dark Mode",
   "description": "Chrome dark mode theme",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "engines": {
     "vscode": "^1.46.0"
   },
