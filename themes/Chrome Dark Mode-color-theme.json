@@ -3,8 +3,6 @@
   "type": "dark",
   "colors": {
     "foreground": "#f2f5f9",
-    "widget.shadow": "#313946",
-
     "dropdown.background": "#202124",
     "dropdown.border": "#a5a5a5",
     "dropdown.foreground": "#ffffffcc",
@@ -37,8 +35,6 @@
     "editorGroupHeader.noTabsBackground": "#202124",
     "editorGroupHeader.tabsBackground": "#202124",
     "editorGroup.dropBackground": "#094771a4",
-    "editorBracketMatch.background": "#094771",
-    "editorBracketMatch.border": "#007fd473",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorGroupHeader.tabsBorder": "#494c5090",
     "editorLineNumber.foreground": "#494c50",
@@ -60,6 +56,7 @@
     "tab.border": "#494c5090",
 
     "panel.background": "#202124",
+    "panel.border": "#494c5090",
     "panelTitle.activeBorder": "#a5a5a5",
     "panelTitle.activeForeground": "#ffffffcc",
     "panelTitle.inactiveForeground": "#f2f5f980",
@@ -74,8 +71,6 @@
     "button.background": "#0f629d",
     "button.foreground": "#fff",
     "contrastBorder": "#494c5094",
-
-    "panel.border": "#494c5090",
 
     "breadcrumb.foreground": "#808080",
     "breadcrumb.focusForeground": "#8ab4f890",
@@ -94,7 +89,16 @@
     "statusBarItem.hoverBackground": "#202431",
     "statusBarItem.prominentBackground": "#202431",
     "statusBarItem.prominentHoverBackground": "#202431",
-    "statusBar.debuggingBackground": "#3a2728"
+    "statusBar.debuggingBackground": "#3a2728",
+
+    //shadows for widgets - search command pallete
+    //"widget.shadow": "202431",
+
+    //bracket related
+    //hide cursor in scrollbar
+    "editorOverviewRuler.bracketMatchForeground": "#0000"
+    //"editorBracketMatch.background": "#094771",
+    //"editorBracketMatch.border": "#007fd473".
   },
   "tokenColors": [
     {
