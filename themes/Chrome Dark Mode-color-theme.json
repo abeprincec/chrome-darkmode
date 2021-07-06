@@ -673,7 +673,7 @@
         "text.html.derivative"
       ],
       "settings": {
-        "foreground": "#f1f1f2"
+        "foreground": "#C7E6FF"
       }
     },
 
@@ -703,12 +703,12 @@
     "property.declaration": "#9ABADC",
     "property.readonly": "#9ABADC",
     "type.defaultLibrary": "#35d478",
-    "interface.defaultLibrary": "#35d478",
-    "function.declaration": {
-      "foreground": "#ddcc7d"
-    },
-    "method.declaration": {
-      "foreground": "#ddcc7d"
-    }
+    "interface.defaultLibrary": "#35d478"
+    // "function.declaration": {
+    //   "foreground": "#ddcc7d"
+    // },
+    // "method.declaration": {
+    //   "foreground": "#ddcc7d"
+    // }
   }
 }
