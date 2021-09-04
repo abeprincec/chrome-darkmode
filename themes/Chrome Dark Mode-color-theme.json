@@ -677,32 +677,32 @@
         //     "foreground": "#9ABADC"
         //   }
         // },
-        {
-            "scope": [
-                "meta.tag.tsx",
-                "meta.tag.jsx",
-                "meta.tag.js",
-                "meta.tag.without-attributes.js",
-                "meta.tag.without-attributes.tsx",
-                "meta.tag.without-attributes.jsx",
-                "meta.tag.without-attributes.ts",
-                "text.html.derivative"
-            ],
-            "settings": {
-                "foreground": "#C7E6FF"
-            }
-        },
-        {
-            "scope": [
-                "meta.type.annotation.ts",
-                "keyword.operator.type.annotation.ts",
-                "meta.type.annotation.tsx",
-                "keyword.operator.type.annotation.tsx"
-            ],
-            "settings": {
-                "foreground": "#95a2b3b6"
-            }
-        }
+        // {
+        //     "scope": [
+        //         "meta.tag.tsx",
+        //         "meta.tag.jsx",
+        //         "meta.tag.js",
+        //         "meta.tag.without-attributes.js",
+        //         "meta.tag.without-attributes.tsx",
+        //         "meta.tag.without-attributes.jsx",
+        //         "meta.tag.without-attributes.ts",
+        //         "text.html.derivative"
+        //     ],
+        //     "settings": {
+        //         "foreground": "#C7E6FF"
+        //     }
+        // },
+        // {
+        //     "scope": [
+        //         "meta.type.annotation.ts",
+        //         "keyword.operator.type.annotation.ts",
+        //         "meta.type.annotation.tsx",
+        //         "keyword.operator.type.annotation.tsx"
+        //     ],
+        //     "settings": {
+        //         "foreground": "#95a2b3b6"
+        //     }
+        // }
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
