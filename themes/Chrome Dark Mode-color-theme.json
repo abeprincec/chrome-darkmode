@@ -85,8 +85,8 @@
         //bracket related
         //hide cursor in scrollbar
         "editorOverviewRuler.bracketMatchForeground": "#0000",
-        "editorInlayHint.background": "#3b3d4399",
-        "editorInlayHint.foreground": "#dddcd9cc",
+        "editorInlayHint.background": "#44444499",
+        "editorInlayHint.foreground": "#ecececcc",
         //"editorBracketMatch.background": "#094771",
         //"editorBracketMatch.border": "#007fd473".
     },
