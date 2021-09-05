@@ -1,3 +1,9 @@
 # Chrome Dark Mode
 
-![Preview](https://raw.githubusercontent.com/abeprincec/chrome-darkmode/main/Screen%20Shot%202021-06-17%20at%208.19.25%20PM.png)
+## Javascript and React
+
+![ReactJS](https://raw.githubusercontent.com/abeprincec/chrome-darkmode/main/screenshots/react_js.png)
+
+## CSS
+
+![CSS](https://raw.githubusercontent.com/abeprincec/chrome-darkmode/main/screenshots/css.png)
